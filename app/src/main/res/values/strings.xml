@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TPFinal</string>
+    <string name="add_city">Agregar ciudad...</string>
+    <string name="add">Agregar</string>
+    <string name="back">retornar</string>
+    <string name="ok">ok</string>
+    <string name="city">Ciudad</string>
+    <string name="btn_add">Agregar</string>
+    <string name="menu_add">Agregar ciudad</string>
+    <string name="cities">Ciudades</string>
+    <string-array name="no_item">
+        <item>"Agrega una ciudad desde el menu"</item>
+    </string-array>
+</resources>
